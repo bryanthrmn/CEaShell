@@ -1,6 +1,6 @@
 # CEaShell [![Lien de chat Discord](https://img.shields.io/discord/1012426214226530424?logo=discord)](https://discord.gg/RDTtu258fW) [![Release](https://img.shields.io/github/v/release/RoccoLoxPrograms/CEaShell?include_prereleases)](https://github.com/roccoloxprograms/shell/releases/latest)
 
-CEaShell (prononcé comme "Seashell") est un nouveau shell pour la TI-84 Plus CE. Il vise à fournir une interface utilisateur moderne, élégante et facile à utiliser, compréhensible par tout utilisateur, quelle que soit son expérience ou ses connaissances en matière de calculatrice. Pour obtenir de l'aide, suggérer une fonctionnalité ou signaler un bug, rejoignez le Discord !
+CEaShell (prononcé "Seashell") est un nouveau shell pour la TI-84 Plus CE. Il vise à fournir une interface utilisateur moderne, élégante et facile à utiliser, compréhensible par tout utilisateur, quelle que soit son expérience ou ses connaissances en matière de calculatrice. Pour obtenir de l'aide, suggérer une fonctionnalité ou signaler un bug, rejoignez notre Discord !
 
 ## Captures d'écran
 
@@ -30,7 +30,7 @@ CEaShell (prononcé comme "Seashell") est un nouveau shell pour la TI-84 Plus CE
 
 ## Installation
 
-1. Téléchargez la dernière version de CEaShell depuis [la page des releases GitHub](https://github.com/roccoloxprograms/CEaShell/releases/latest), ou clonez et compilez CEaShell en suivant [ces instructions](#building-ceashell).
+1. Téléchargez la dernière version de CEaShell depuis [la page des sorties GitHub](https://github.com/roccoloxprograms/CEaShell/releases/latest), ou clonez et compilez CEaShell en suivant [ces instructions](#building-ceashell).
 2. Envoyez **CEASHELL.8xp** et **AppInstA.8xv** à votre calculatrice en utilisant TI-Connect CE ou TiLP. Si vous n'avez pas les [bibliothèques CE C](https://tiny.cc/clibs), vous devrez les télécharger et les envoyer également.
 3. Exécutez **prgmCEASHELL** depuis le menu des programmes (vous devrez utiliser le [jailbreak arTIfiCE](https://yvantt.github.io/arTIfiCE) si vous êtes sur une version OS 5.5 et supérieure).
 4. CEaShell sera installé dans le menu des applications.
@@ -38,10 +38,10 @@ CEaShell (prononcé comme "Seashell") est un nouveau shell pour la TI-84 Plus CE
 ## Désinstallation
 
 1. Ouvrez le menu de gestion de la mémoire en appuyant sur <kbd>2nd</kbd>, <kbd>+</kbd>, <kbd>2</kbd>.
-2. Faites défiler vers le bas jusqu'à ce que vous trouviez une option "Apps".
+2. Faites défiler vers le bas jusqu'à ce que vous trouviez une option "Applis".
 3. Appuyez sur <kbd>enter</kbd> puis trouvez CEaShell.
-4. Appuyez sur <kbd>del</kbd> puis appuyez sur <kbd>2</kbd>.
-5. Quittez le menu de gestion de la mémoire en appuyant sur <kbd>clear</kbd>.
+4. Appuyez sur <kbd>suppr</kbd> puis appuyez sur <kbd>2</kbd>.
+5. Quittez le menu de gestion de la mémoire en appuyant sur <kbd>annul</kbd>.
 
 ## Navigation
 
@@ -84,7 +84,7 @@ Si l'option **[on] Shortcuts** est activée dans CEaShell, les combinaisons de t
 
 ## Construction de CEaShell
 
-Pour construire CEaShell, vous devrez installer la dernière version de [l'outil CE C](https://ce-programming.github.io/toolchain/index.html). Les instructions pour installer l'outil se trouvent [ici](https://ce-programming.github.io/toolchain/static/getting-started.html#installing-the-ce-toolchain). Vous devrez également utiliser la dernière version de [convimg](https://github.com/mateoconlechuga/convimg).
+Pour "construire" CEaShell, vous devrez installer la dernière version de [l'outil CE C](https://ce-programming.github.io/toolchain/index.html). Les instructions pour installer l'outil se trouvent [ici](https://ce-programming.github.io/toolchain/static/getting-started.html#installing-the-ce-toolchain). Vous devrez également utiliser la dernière version de [convimg](https://github.com/mateoconlechuga/convimg).
 
 <br />
 
@@ -96,4 +96,4 @@ Pour construire CEaShell, vous devrez installer la dernière version de [l'outil
 
 ## Bugs
 
-Si vous rencontrez un bug en utilisant CEaShell, n'hésitez pas à [ouvrir une issue](https://github.com/RoccoLoxPrograms/CEaShell/issues) ou à le signaler sur le [serveur Discord](https://discord.gg/RDTtu258fW).
+Si vous rencontrez un bug en utilisant CEaShell, n'hésitez pas à [ouvrir un dossier (issue)](https://github.com/RoccoLoxPrograms/CEaShell/issues) ou à nous le signaler sur notre [serveur Discord](https://discord.gg/RDTtu258fW).
