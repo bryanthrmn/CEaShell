@@ -1,6 +1,6 @@
 # CEaShell [![Lien de chat Discord](https://img.shields.io/discord/1012426214226530424?logo=discord)](https://discord.gg/RDTtu258fW) [![Release](https://img.shields.io/github/v/release/RoccoLoxPrograms/CEaShell?include_prereleases)](https://github.com/roccoloxprograms/shell/releases/latest)
 
-CEaShell (prononcé "Seashell") est un nouveau shell pour la TI-84 Plus CE. Il vise à fournir une interface utilisateur moderne, élégante et facile à utiliser, compréhensible par tout utilisateur, quelle que soit son expérience ou ses connaissances en matière de calculatrice. Pour obtenir de l'aide, suggérer une fonctionnalité ou signaler un bug, rejoignez notre Discord !
+CEaShell (prononcé "Seashell") est un nouveau shell pour la TI-83 Premium CE et la TI-84 Plus CE (Edition Python). Il vise à fournir une interface utilisateur moderne, élégante et facile à utiliser, compréhensible par tout utilisateur, quelle que soit son expérience ou ses connaissances en matière de calculatrice. Pour obtenir de l'aide, suggérer une fonctionnalité ou signaler un bug, rejoignez notre Discord !
 
 ## Captures d'écran
 
@@ -37,8 +37,8 @@ CEaShell (prononcé "Seashell") est un nouveau shell pour la TI-84 Plus CE. Il v
 
 ## Désinstallation
 
-1. Ouvrez le menu de gestion de la mémoire en appuyant sur <kbd>2nd</kbd>, <kbd>+</kbd>, <kbd>2</kbd>.
-2. Faites défiler vers le bas jusqu'à ce que vous trouviez une option "Applis".
+1. Ouvrez le menu de gestion de la mémoire en appuyant sur <kbd>2nde</kbd>, <kbd>+</kbd>, <kbd>2</kbd>.
+2. Faites défiler vers le bas jusqu'à ce que vous trouviez une option "Apps".
 3. Appuyez sur <kbd>enter</kbd> puis trouvez CEaShell.
 4. Appuyez sur <kbd>suppr</kbd> puis appuyez sur <kbd>2</kbd>.
 5. Quittez le menu de gestion de la mémoire en appuyant sur <kbd>annul</kbd>.
@@ -49,15 +49,15 @@ Voici un tableau avec les touches et leurs différentes utilisations dans CEaShe
 
 | Touche                                                                     | Action effectuée                                                                                                 |
 |---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| <kbd>2nd</kbd> / <kbd>enter</kbd>                                         | Exécuter des programmes, basculer/sélectionner des éléments dans les menus.                                       |
+| <kbd>2nde</kbd> / <kbd>enter</kbd>                                         | Exécuter des programmes, basculer/sélectionner des éléments dans les menus.                                       |
 | <kbd>↑</kbd>, <kbd>↓</kbd>, <kbd>←</kbd>, <kbd>→</kbd>                    | Faire défiler les options ou les menus.                                                                           |
 | <kbd>y=</kbd>                                                             | Ouvrir/fermer le menu de personnalisation.                                                                        |
 | <kbd>graph</kbd>                                                          | Ouvrir/fermer le menu des paramètres.                                                                             |
 | <kbd>alpha</kbd> / <kbd>window</kbd> / <kbd>zoom</kbd> / <kbd>trace</kbd> | Voir et modifier les propriétés des fichiers.                                                                     |
-| <kbd>del</kbd>                                                            | Supprimer le fichier actuellement sélectionné ou supprimer le caractère devant le curseur dans une zone de saisie.|
+| <kbd>suppr</kbd>                                                            | Supprimer le fichier actuellement sélectionné ou supprimer le caractère devant le curseur dans une zone de saisie.|
 | <kbd>mode</kbd>                                                           | Créer un nouveau fichier ou copier celui actuellement sélectionné, ou effacer dans une zone de saisie.            |
 | <kbd>vars</kbd>                                                           | Ouvrir rapidement le fichier actuellement sélectionné dans l'éditeur TI-OS, si le fichier peut être édité.        |
-| <kbd>clear</kbd>                                                          | Quitter CEaShell ou revenir au menu précédent. Pour quitter CEaShell de n'importe où dans le shell, maintenez enfoncé.| 
+| <kbd>annul</kbd>                                                          | Quitter CEaShell ou revenir au menu précédent. Pour quitter CEaShell de n'importe où dans le shell, maintenez enfoncé.| 
 | <kbd>a</kbd> - <kbd>z</kbd>, <kbd>θ</kbd>                                 | Aller au programme commençant par la lettre pressée.                                                             |
 | <kbd>on</kbd>                                                             | Éteindre la calculatrice tout en restant dans le shell.                                                          |
 | <kbd>stat</kbd>                                                           | Rechercher un fichier. Par exemple, rechercher "ABC" affichera tous les fichiers commençant par "ABC" dans le répertoire actuel.|
